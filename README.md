@@ -1,7 +1,5 @@
 # OOP_LAB7
 
-Cài đặt Java, kiểm thử trực tiếp trong `Main`, không cần thư viện ngoài.
-
 ## Thiết kế
 
 ```mermaid
